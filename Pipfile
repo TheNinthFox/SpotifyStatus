@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 dbus = "*"
-dbus-python = "*"
 
 [requires]
 python_version = "3.7"
